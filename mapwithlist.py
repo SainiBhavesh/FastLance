@@ -43,7 +43,7 @@ def generate_mapwithlist():
     # Map ka code
     hos_map = folium.Map(location=[lat, lon], zoom_start=12)
 
-    fg = folium.FeatureGroup(name='Abhijit')
+    fg = folium.FeatureGroup(name='Bhavesh')
 
     for i in li1:
 
